@@ -1,0 +1,5 @@
+.DS_Store
+secrets.txt
+
+# Commenti dopo questo simbolo
+# le wildcard come *.txt funzionano
